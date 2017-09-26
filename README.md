@@ -3,4 +3,4 @@ Algorithm provided by: http://www.karlsims.com/rd.html
 
 Sample image:
 
-!(../master/rdsimex.PNG)
+![](Reaction-Diffusion-Simulation/rdsimex.PNG)
